@@ -1,1 +1,1 @@
-/home/michaelnjoroge/Pictures/Screenshots/Screenshot from 2023-11-30 20-09-47.png
+![Alt text](<Screenshot from 2023-11-30 20-09-47.png>)
